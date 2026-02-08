@@ -13,7 +13,7 @@ I enjoy creating **clean and maintainable code**, building REST APIs, and optimi
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB, MySQL/PostgreSQL
 - **Authentication:** JWT, OAuth
-- **Tools:** Git/GitHub, Postman, Docker (optional)
+- **Tools:** Git/GitHub, Postman, Docker
 - **Other Skills:** RESTful API Design, Async/Await & Promise.all, Clean Architecture
 
 ---
@@ -34,11 +34,7 @@ I enjoy creating **clean and maintainable code**, building REST APIs, and optimi
    - Secure login/signup with JWT
    - Role-based access and permissions
    - Technologies: Node.js, Express.js, MongoDB
-
-*(You can explore more projects in my [GitHub Repositories](https://github.com/nabil-assi))*
-
----
-
+   - 
 ## 📫 Contact Me
 - **Email:** nonomassi270@gmail.com  
 - **LinkedIn:** [linkedin.com/in/nabil-abu-assi-b942b9391](https://www.linkedin.com/in/nabil-abu-assi-b942b9391)  
